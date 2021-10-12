@@ -1,0 +1,18 @@
+# Summary
+
+- [Let's play around with bootstrap](lets_play_around_with_bootsrap.md)
+- [Intro to SASS (SCSS)](./intro_to_sass.md)
+- [Traditional web frameworks](./js_web_frameworks.md)
+- [How do client-side framework work?](./client-side-framework.md)
+- [Why separate client and server?](./why-separate-client-and-server.md)
+- [List of popular client-side frameworks](./list-of-popular-client-side.md)
+- [What does Angular consist of?](./what-does-angular-consist-of.md)
+- [Setup using provided CLI tools](./setup-using-cli.md)
+- [Angular app structure](./angular-app-structure.md)
+- [What is component?](./what-is-component.md)
+- [What is component II?](./what-is-component-2.md)
+- [What is inside the template?](./what-is-inside-template.md)
+- [Conditionals](./conditionals.md)
+- [Loops](./loops.md)
+- [Event handlers](./event_handlers.md)
+- [Exercise 1](./exercise_1.md)

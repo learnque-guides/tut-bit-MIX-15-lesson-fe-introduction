@@ -1,0 +1,6 @@
+[book]
+authors = ["Viktor Nareiko"]
+language = "en"
+multilingual = false
+src = "src"
+title = "BIT :: LT :: MIX :: 15 Pamoka :: Įvadas į FE (front-end)"
