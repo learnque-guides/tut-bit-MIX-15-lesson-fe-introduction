@@ -1,9 +1,22 @@
 # Exercise 2
 
-* Create an array variable named `doggies` in your `app.component.ts` file and fill it with similar JS objects that each represent a good doggo.
-* Display the names of doggies in the template using the `*ngFor` directive.
-* If there are less than 2 objects in the array variable, display the line "Who let the dogs out?"
-on the screen using `*ngIf` directive.
-* Add a button to the page that triggers a simple alert and print out some woofs!
-* If you are up for the challenge, add another button that would add a dog (with any generic
-good name) to the list.
+By using bootstrap and angular implement application template like in picture below:
+
+![Bookshelf template](./images/bookshelf-template.png)
+
+Use:
+* `ng new bookshelf` - for creating a new application.
+* `ng g c [component_name]` - for creating a components.
+* `ng serve --open` - for running application and opening it in browser.
+
+You need to create the same component as provided below:
+
+![Components](./images/components.png)
+
+* header.component.html - must contain a page header (title and grey background)
+* category.component.html - must contain a dropdown (Science, Fiction).
+* books.component.html - table with books list
+* book.component.html - book detail
+
+All data is hardcoded right now. You can write the same infromation that you see in pricture above.
+
