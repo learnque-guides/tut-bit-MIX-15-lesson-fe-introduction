@@ -1,6 +1,7 @@
 # Summary
 
 - [Let's play around with bootstrap](lets_play_around_with_bootsrap.md)
+- [Exercise 1](./exercise_1.md)
 - [Intro to SASS (SCSS)](./intro_to_sass.md)
 - [Traditional web frameworks](./js_web_frameworks.md)
 - [How do client-side framework work?](./client-side-framework.md)
@@ -15,4 +16,4 @@
 - [Conditionals](./conditionals.md)
 - [Loops](./loops.md)
 - [Event handlers](./event_handlers.md)
-- [Exercise 1](./exercise_1.md)
+- [Exercise 2](./exercise_2.md)
