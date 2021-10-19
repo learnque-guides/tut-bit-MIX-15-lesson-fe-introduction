@@ -14,7 +14,7 @@
 - [What is component II?](./what-is-component-2.md)
 - [Exercise 2](./exercise_2.md)
 - [What is inside the template?](./what-is-inside-template.md)
-- [Where we keep business logic](./where_we_keep_business_logic.md)
+- [Where we keep business logic?](./where_we_keep_business_logic.md)
 - [Conditionals](./conditionals.md)
 - [Loops](./loops.md)
 - [Pipes](./pipes.md)
