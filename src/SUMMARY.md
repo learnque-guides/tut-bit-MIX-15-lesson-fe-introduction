@@ -20,3 +20,4 @@
 - [Pipes](./pipes.md)
 - [Event handlers](./event_handlers.md)
 - [Exercise 3](./exercise_3.md)
+- [Exercise 4](./exercise_4.md)
